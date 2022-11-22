@@ -1,0 +1,16 @@
+{
+  "af_app_invite_one_link": "fPUy",
+  "af_dev_key": "K6hb2pAwGoqfRddQ9VjjDH",
+  "api": "https://php.btliveroom.live",
+  "game": "https://yx.momos.tv",
+  "game_res": "https://d2smdpz19btko7.cloudfront.net/test/publish/",
+  "image_upload": "https://h5.btliveroom.live",
+  "java_api": "https://java.btliveroom.live",
+  "old_web_view": "https://www.bing.com",
+  "resource": "http://54.251.191.237:6664",
+  "rtc_app_id": "6204797b801a0800c20f2cd1",
+  "s3": "https://d1t4hi0pbnyeg1.cloudfront.net",
+  "share": "http://www.baidu.com",
+  "upload": "https://zip.momos.tv",
+  "web_view": "https://h5.btliveroom.live/mobile"
+}
