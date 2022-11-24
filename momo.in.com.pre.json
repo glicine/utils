@@ -1,0 +1,16 @@
+{
+  "af_app_invite_one_link": "fPUy",
+  "af_dev_key": "K6hb2pAwGoqfRddQ9VjjDH",
+  "api": "https://newapi.momos.tv",
+  "game": "https://yx.momos.tv",
+  "game_res": "https://d2smdpz19btko7.cloudfront.net/test/publish/",
+  "image_upload": "http://52.76.71.167:8008",
+  "java_api": "https://preim.momos.tv",
+  "old_web_view": "https://www.momos.tv",
+  "resource": "http://54.251.191.237:6664",
+  "rtc_app_id": "6204795c62cd7400c178cc2d",
+  "s3": "https://d1t4hi0pbnyeg1.cloudfront.net",
+  "share": "http://www.baidu.com",
+  "upload": "http://54.179.143.18:8086",
+  "web_view": "http://52.76.71.167:8008/mobile"
+}
