@@ -5,7 +5,7 @@
   "game": "https://yx.momos.tv",
   "game_res": "https://d2smdpz19btko7.cloudfront.net/test/publish/",
   "image_upload": "http://3.0.184.21:8008",
-  "java_api": "http://54.169.153.64:9200",
+  "java_api": "http://54.169.153.64:9213",
   "old_web_view": "https://www.momos.tv",
   "resource": "http://54.251.191.237:6664",
   "rtc_app_id": "6204795c62cd7400c178cc2d",
